@@ -5,3 +5,7 @@
 
 09/01/2022:  
 README.md created.
+
+10/01/2022:  
+- First objective: try to use *tkinter* to make the presser's user interface.
+- Second objectie: try to add options for the user.
