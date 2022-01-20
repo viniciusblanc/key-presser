@@ -7,7 +7,7 @@ def f5_presser():
         m, s = divmod(n, 60)
         h, m = divmod(m, 60)
         print('{:02}:{:02}:{:02}'.format(h, m, s), end='\r')
-        time.sleep(1)
+        time.sleep(0.95)
         n += 1
         if s == 0 and m % 10 == 0:
             keyboard.press_and_release('F5')
