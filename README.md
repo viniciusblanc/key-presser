@@ -19,5 +19,5 @@ Minor issue detected: the clock is delaying a few seconds per hour.
 20/01/2022:  
 *time.sleep* adjusted to 0.95. Now, the clock is faster than the actual time.
 
-21/01/2022:
+21/01/2022:  
 I just read an article about *asyncio* library. Trying learn how to use it to see if it helps.
