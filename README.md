@@ -22,5 +22,5 @@ Minor issue detected: the clock is delaying a few seconds per hour.
 21/01/2022:  
 I just read an article about *asyncio* library. Trying learn how to use it to see if it helps.
 
-24/01/2022:
+24/01/2022:  
 I did some *pulls* to update the repositories.  
